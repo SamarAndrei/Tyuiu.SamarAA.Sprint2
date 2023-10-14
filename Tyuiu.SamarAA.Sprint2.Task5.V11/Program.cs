@@ -17,7 +17,7 @@ namespace Tyuiu.SamarAA.Sprint2.Task5.V11
             Console.Title = "Спринт #2 | Выполнил: Самар А. С. | ИИПб-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: ВТернарный оператор                                               *");
+            Console.WriteLine("* Тема: Оператор switch                                                   *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #11                                                             *");
             Console.WriteLine("* Выполнил: Самар Андрей Александрович | ИИПб-23-3                        *");
